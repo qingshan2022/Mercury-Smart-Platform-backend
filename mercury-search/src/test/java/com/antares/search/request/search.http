@@ -1,0 +1,10 @@
+POST http://mercury.cool/api/search
+Content-Type: application/json
+
+{
+  "type": "csdn",
+  "pageNum": 3,
+  "keyword": "Spring"
+}
+
+###

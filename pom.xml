@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.mercury</groupId>
+    <artifactId>mercury-blog-backend</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <name>mercury-blog-backend</name>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>mercury-common</module>
+        <module>mercury-member</module>
+        <module>mercury-gateway</module>
+        <module>mercury-blog</module>
+        <module>mercury-search</module>
+    </modules>
+</project>
