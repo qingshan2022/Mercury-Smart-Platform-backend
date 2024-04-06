@@ -5,10 +5,10 @@
 ## 目录
 
 - [介绍](https://github.com/qk-mercury/mercury-blog-backend/blob/master/README.md)
-- [用户服务](https://github.com/qk-mercury/mercury-blog-backend/blob/master/doc/USER_MODULE.md)
-- [帖子服务](https://github.com/qk-mercury/mercury-blog-backend/blob/master/doc/ARTICLE_MODULE.md)
-- [搜索服务](https://github.com/qk-mercury/mercury-blog-backend/blob/master/doc/SEARCH_MODULE.md)
-- [部署相关](https://github.com/qk-mercury/mercury-blog-backend/blob/master/doc/DEPLOY.md)
+- [用户服务](https://github.com/qingshan2022/Mercury-Smart-Platform-backend/blob/main/doc/USER_MODULE.md)
+- [帖子服务](https://github.com/qingshan2022/Mercury-Smart-Platform-backend/blob/main/doc/ARTICLE_MODULE.md)
+- [搜索服务](https://github.com/qingshan2022/Mercury-Smart-Platform-backend/blob/main/doc/SEARCH_MODULE.md)
+- [部署相关](https://github.com/qingshan2022/Mercury-Smart-Platform-backend/blob/main/doc/DEPLOY.md)
 
 ## 技术栈
 
@@ -178,15 +178,9 @@ header也提供了访问文件夹的方式（分页的）：
 
 
 
+#### 项目框架图
 
-
-
-
-
-
-
-
-
+![](https://i0.hdslb.com/bfs/new_dyn/fc00cad1ad611ac68315468b0878995833872539.png@1048w_!web-dynamic.avif)
 
 
 
